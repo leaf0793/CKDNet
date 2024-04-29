@@ -1,0 +1,8 @@
+training/image_2/000198_10.png training/image_3/000198_10.png training/disp_occ_0/000198_10.png
+training/image_2/000181_10.png training/image_3/000181_10.png training/disp_occ_0/000181_10.png
+training/image_2/000177_10.png training/image_3/000177_10.png training/disp_occ_0/000177_10.png
+training/image_2/000169_10.png training/image_3/000169_10.png training/disp_occ_0/000169_10.png
+training/image_2/000166_10.png training/image_3/000166_10.png training/disp_occ_0/000166_10.png
+training/image_2/000162_10.png training/image_3/000162_10.png training/disp_occ_0/000162_10.png
+training/image_2/000156_10.png training/image_3/000156_10.png training/disp_occ_0/000156_10.png
+training/image_2/000154_10.png training/image_3/000154_10.png training/disp_occ_0/000154_10.png
