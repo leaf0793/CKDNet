@@ -166,6 +166,7 @@ if __name__ == '__main__':
     from utils.common import init_cfg, get_cfg
     parser = argparse.ArgumentParser(description='PSMNet')
     parser.add_argument("--slim_pecentage", default=1, type=float, help="slim_pecentage")
+    parser.add_argument("--teacher_slim_pecentage", default=1, type=float, help="slim_pecentage")
     parser.add_argument("--back", default="", type=str, help="")
     cfg = init_cfg(parser.parse_args())
     # cfg.slim_pecentage = 0.3

@@ -51,6 +51,7 @@ def init_cfg(cfg):
     cfg.loadmodel = ''
     cfg.teacher_loadmodel = ''
     cfg.student_loadmodel = ''
+    # cfg.teacher_slim_pecentage=1.0
     return cfg
 
 def get_cfg(cfg):
